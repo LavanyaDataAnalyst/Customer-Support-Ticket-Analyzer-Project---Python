@@ -39,10 +39,10 @@
 * Priority → Ticket priority level (High / Medium / Low)
 
 ## 🛠 Tools & Technologies:
->* Python → Core programming language
->* Built-in Functions → split(), join(), lower(), replace()
->* Loops & Conditions → Data processing logic
->* Functions → Reusable code blocks for analysis
+>* **Python** → Core programming language
+>* **Built-in Functions** → split(), join(), lower(), replace()
+>* **Loops & Conditions** → Data processing logic
+>* **Functions** → Reusable code blocks for analysis
 
 ## ⚙️ Features Implemented:
 * Ticket data loading and preprocessing
